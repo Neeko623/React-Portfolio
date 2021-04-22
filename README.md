@@ -11,10 +11,10 @@ In the project directory, you can run:
 - npm start
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser on local
+Open "http://localhost:3000" to view it in the browser on local
 
 ### Link to Webpage
- [Deployment]() for more information.
+ [REACT PORTFOLIO]() for more information.
 
 ### Questions
 Contact email: NEEKO_TVXQ@HOTMAIL.COM
