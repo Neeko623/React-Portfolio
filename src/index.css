@@ -5,11 +5,11 @@ main {
 }
 :root {
   --primary: #8c54ff;
-  --secondary: #31343D;
+  --secondary: #e9d202;
   --tertiary: #b12704;
   --light: #fafafa;
-  --dark: #799FBA;
-  --darker: #1F3B60;
+  --dark: #ce5698;
+  --darker: #631c4e;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -180,7 +180,7 @@ header img {
   top: 0;
   left: 0;
   height: auto;
-  filter: sepia(1) opacity(60%);
+  width: 5000px;
 }
 
 nav {
