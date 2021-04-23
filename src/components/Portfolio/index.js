@@ -3,7 +3,6 @@ import Project from "../Project";
 
 function Portfolio() {
 
-  // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
       name: 'Budget-Tracker',

@@ -4,9 +4,6 @@ function About() {
   return (
     <section className="my-5">
       <div className="my-2">
-        <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
-        </div>
         <p>
         After 5+ years of actively and passionately involved within a demonstrated history of working in the design industry. Strong arts and design professional graduated from University of Manitoba. Full Stack Certificate from University of Toronto.
         </p>
