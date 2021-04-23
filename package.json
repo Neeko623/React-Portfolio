@@ -6,7 +6,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "homepage": "https://neeko623.github.io/React-Portfolio"
+    "homepage": "/"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -14,7 +14,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-     "deploy": "gh-pages -b main -d build"
+     "deploy": "gh-pages -b deploy -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
