@@ -33,8 +33,7 @@ function Portfolio() {
       description: 'Project One',
       link: "https://damn-ma-6.github.io/Poke-Parte/",
       repo: "https://github.com/damn-ma-6/Poke-Parte"
-    },
-    
+    }]);
   return (
     <div>
       <div className="flex-row">
