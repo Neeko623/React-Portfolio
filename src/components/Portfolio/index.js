@@ -23,17 +23,18 @@ function Portfolio() {
       repo: "https://github.com/Neeko623/Run-Buddy-Website"
     },
     {
+      name: 'Poke-Parte',
+      description: 'Project One',
+      link: "https://damn-ma-6.github.io/Poke-Parte/",
+      repo: "https://github.com/damn-ma-6/Poke-Parte"
+    },{
       name: 'Dog-Dash',
       description: 'Project Three',
       link: "https://dog-dash.herokuapp.com/",
       repo: "https://github.com/pro3gro3/walk-my-dog"
     },
-    {
-      name: 'Poke-Parte',
-      description: 'Project One',
-      link: "https://damn-ma-6.github.io/Poke-Parte/",
-      repo: "https://github.com/damn-ma-6/Poke-Parte"
-    }]);
+  ]);
+
   return (
     <div>
       <div className="flex-row">
